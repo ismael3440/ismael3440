@@ -20,7 +20,7 @@
 ---
 
 ## 🗨️ Conecta conmigo  
-- 💬 Si tienes alguna sugerencia o duda, comenta en los [issues](https://github.com/ismael3440/).  
+- 💬 Si tienes alguna sugerencia o duda, comenta en los [issues](https://github.com/ismael3440/ismael3440/issues).  
 - 🌟 Si te gusta mi trabajo, no olvides dejar una estrella en mis proyectos.  
 
 ---
